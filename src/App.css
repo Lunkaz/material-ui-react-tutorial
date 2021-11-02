@@ -11,6 +11,10 @@
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
+} 
+
+input {
+  color: white !important;
 }
 
 .App-header {
